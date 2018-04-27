@@ -1,0 +1,35 @@
+body{
+  background-color:rgb(66, 183, 183);
+}
+#show-quote{
+  margin-top:10%;
+  
+}
+#show-author{
+  margin-left:50px;
+}
+#txt{
+  color:#FFFFFF;
+  font-family: 'Times new roman', cursive;
+  font-size:50px;
+  margin-left:25%;
+}
+#author{
+  color:#FFFFFF;
+  font-family: 'Times new roman', cursive;
+  font-size:30px;
+  margin-left:50%;
+}
+#btton{
+  margin-left:48%;
+}
+footer{
+ background-color:rgb(0, 0, 0);
+  margin-top:100px;
+}
+h1{
+  font-family: 'Lobster', cursive;
+}
+#jbtr{
+  background-color:#000000 !important;
+}
